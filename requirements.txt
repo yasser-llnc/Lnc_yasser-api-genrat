@@ -1,0 +1,7 @@
+requests
+protobuf
+pycryptodome
+colorama
+flask
+protobuf-decoder
+urllib3
